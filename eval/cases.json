@@ -1,0 +1,57 @@
+[
+  {
+    "file": "01-mutual-nda.txt",
+    "parties": ["Northwind", "Bluepeak"],
+    "clause_types": ["confidentiality", "term", "governing_law"],
+    "high_risk_types": [],
+    "questions": [
+      { "q": "How long do confidentiality obligations last after the agreement ends?", "expect_any": ["three (3) years", "3 years", "three years"] },
+      { "q": "How quickly must materials be returned after a request?", "expect_any": ["fifteen (15) days", "15 days"] },
+      { "q": "What is the liability cap under this agreement?", "expect": "NOT_FOUND" }
+    ]
+  },
+  {
+    "file": "02-freelance-services.txt",
+    "parties": ["Harbor & Vine", "Boateng"],
+    "clause_types": ["payment", "intellectual_property", "termination", "liability"],
+    "high_risk_types": [],
+    "questions": [
+      { "q": "What is the total fee?", "expect_any": ["6,000", "6000"] },
+      { "q": "How much notice is needed to terminate?", "expect_any": ["ten (10) business days", "10 business days"] },
+      { "q": "Is there a non-compete clause?", "expect": "NOT_FOUND" }
+    ]
+  },
+  {
+    "file": "03-commercial-lease.txt",
+    "parties": ["Adjei Properties", "Kumasi Fresh Juices"],
+    "clause_types": ["term", "payment", "indemnification", "termination"],
+    "high_risk_types": ["indemnification", "termination"],
+    "questions": [
+      { "q": "What is the monthly rent?", "expect_any": ["4,500", "4500"] },
+      { "q": "How much notice does the tenant need to give to avoid automatic renewal?", "expect_any": ["180", "one hundred and eighty"] },
+      { "q": "Can the tenant sublet the premises?", "expect": "NOT_FOUND" }
+    ]
+  },
+  {
+    "file": "04-saas-subscription.txt",
+    "parties": ["Ledgerly", "Tamale Cooperative"],
+    "clause_types": ["payment", "term", "liability"],
+    "high_risk_types": [],
+    "questions": [
+      { "q": "What uptime does the provider commit to?", "expect_any": ["99.5"] },
+      { "q": "How soon must the provider report a security breach?", "expect_any": ["72", "seventy-two"] },
+      { "q": "What happens to the customer's data if the provider is acquired?", "expect": "NOT_FOUND" }
+    ]
+  },
+  {
+    "file": "05-employment-offer.txt",
+    "parties": ["Coastline Logistics", "Yaw Darko"],
+    "clause_types": ["payment", "termination", "non_compete"],
+    "high_risk_types": ["non_compete"],
+    "questions": [
+      { "q": "How long is the non-compete?", "expect_any": ["twenty-four (24) months", "24 months"] },
+      { "q": "How many days of annual leave are included?", "expect_any": ["twenty-one (21)", "21"] },
+      { "q": "Is there a signing bonus?", "expect": "NOT_FOUND" }
+    ]
+  }
+]

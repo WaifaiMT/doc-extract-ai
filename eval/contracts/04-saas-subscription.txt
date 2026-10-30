@@ -1,0 +1,26 @@
+SOFTWARE SUBSCRIPTION AGREEMENT
+
+(Fictional sample for testing. Not a real agreement.)
+
+This Subscription Agreement is between Ledgerly Cloud Ltd. ("Provider") and Tamale Cooperative Credit Union ("Customer"), effective September 1, 2026.
+
+1. SUBSCRIPTION. Provider grants Customer a non-exclusive, non-transferable right to use the Ledgerly accounting platform for up to 25 named users during the Subscription Term.
+
+2. FEES. Customer shall pay USD 900 per year, invoiced annually in advance and due within thirty (30) days. Provider may increase fees on renewal by giving at least sixty (60) days' notice before the renewal date.
+
+3. TERM AND RENEWAL. The initial Subscription Term is one (1) year. It renews automatically for further one-year terms unless either party gives notice of non-renewal at least thirty (30) days before the end of the current term.
+
+4. SERVICE LEVELS. Provider will use commercially reasonable efforts to make the platform available 99.5% of the time each month, excluding scheduled maintenance. If availability falls below that level, Customer's sole remedy is a service credit of 5% of the monthly fee for each full 1% below the target.
+
+5. CUSTOMER DATA. Customer owns all data it enters into the platform. Provider will process Customer Data only to provide the service and will not sell it. Provider will notify Customer of any security breach affecting Customer Data within seventy-two (72) hours of becoming aware of it.
+
+6. DATA EXPORT. On termination, Customer may export its data for thirty (30) days, after which Provider will delete it.
+
+7. SUSPENSION. Provider may suspend Customer's access if any invoice is more than thirty (30) days overdue.
+
+8. LIMITATION OF LIABILITY. Provider's total liability in any twelve-month period is limited to the fees paid by Customer in that period.
+
+9. GOVERNING LAW. This Agreement is governed by the laws of England and Wales.
+
+Provider: Grace Liu, Chief Operating Officer, Ledgerly Cloud Ltd.
+Customer: Ibrahim Alhassan, General Manager, Tamale Cooperative Credit Union

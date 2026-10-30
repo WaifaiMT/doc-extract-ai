@@ -1,0 +1,30 @@
+FREELANCE SERVICES AGREEMENT
+
+(Fictional sample for testing. Not a real agreement.)
+
+This Agreement is made on June 10, 2026 between Harbor & Vine Restaurant Group ("Client") and Esi Boateng, trading as Boateng Digital ("Contractor").
+
+1. SERVICES. Contractor will design and build a responsive website with online table reservations for Client, as described in Schedule A (the "Services").
+
+2. FEES AND PAYMENT. Client shall pay a fixed fee of USD 6,000: 40% on signing, 30% on delivery of the staging site, and 30% on launch. Invoices are due within fourteen (14) days. Late payments accrue interest at 1.5% per month.
+
+3. TIMELINE. Contractor will deliver the staging site by August 1, 2026 and launch the website by August 29, 2026, provided Client supplies all content by July 10, 2026.
+
+4. CHANGES. Work outside Schedule A will be quoted separately and billed at USD 50 per hour.
+
+5. INTELLECTUAL PROPERTY. On receipt of full payment, Contractor assigns to Client all rights in the final website design and content created for Client. Contractor keeps ownership of its pre-existing code libraries and grants Client a perpetual, non-exclusive license to use them as part of the website.
+
+6. PORTFOLIO. Contractor may display the website in its portfolio after launch.
+
+7. WARRANTY. For sixty (60) days after launch, Contractor will fix any defects in the Services at no charge.
+
+8. LIMITATION OF LIABILITY. Contractor's total liability under this Agreement will not exceed the fees paid by Client. Neither party is liable for indirect or consequential damages.
+
+9. TERMINATION. Either party may terminate this Agreement with ten (10) business days' written notice. On termination, Client pays for all work completed to date, and the signing payment is non-refundable.
+
+10. INDEPENDENT CONTRACTOR. Contractor is an independent contractor and not an employee of Client.
+
+11. GOVERNING LAW. This Agreement is governed by the laws of the Province of Ontario, Canada.
+
+Client: Marcus Hale, Owner, Harbor & Vine Restaurant Group
+Contractor: Esi Boateng

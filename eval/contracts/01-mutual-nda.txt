@@ -1,0 +1,26 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+(Fictional sample for testing. Not a real agreement.)
+
+This Mutual Non-Disclosure Agreement (the "Agreement") is entered into as of February 3, 2026 (the "Effective Date") by and between Northwind Analytics Ltd., a company registered in Ghana with offices in Accra ("Northwind"), and Bluepeak Software Inc., a Delaware corporation ("Bluepeak"). Northwind and Bluepeak are each a "Party" and together the "Parties."
+
+1. PURPOSE. The Parties wish to evaluate a possible partnership to integrate Northwind's data platform with Bluepeak's billing software (the "Purpose").
+
+2. CONFIDENTIAL INFORMATION. "Confidential Information" means any non-public business, technical, or financial information disclosed by one Party (the "Discloser") to the other (the "Recipient"), in any form, that is marked confidential or that a reasonable person would understand to be confidential.
+
+3. OBLIGATIONS. The Recipient shall (a) use Confidential Information only for the Purpose; (b) not disclose it to any third party except its employees and advisors who need to know it and are bound by confidentiality obligations at least as protective as these; and (c) protect it with at least the same degree of care it uses for its own confidential information, and no less than reasonable care.
+
+4. EXCLUSIONS. Confidential Information does not include information that (a) is or becomes public through no fault of the Recipient; (b) was known to the Recipient before disclosure; (c) is independently developed without use of the Discloser's information; or (d) is received from a third party without a duty of confidentiality.
+
+5. TERM. This Agreement lasts for two (2) years from the Effective Date. The Recipient's obligations for each item of Confidential Information survive for three (3) years after the end of this Agreement.
+
+6. RETURN OF MATERIALS. Within fifteen (15) days of the Discloser's written request, the Recipient shall return or destroy all Confidential Information and certify in writing that it has done so.
+
+7. NO LICENSE. Nothing in this Agreement grants either Party any license or rights in the other Party's intellectual property.
+
+8. REMEDIES. Each Party agrees that a breach may cause irreparable harm, and the Discloser may seek injunctive relief in addition to any other remedy.
+
+9. GOVERNING LAW. This Agreement is governed by the laws of the Republic of Ghana, and the courts of Accra have exclusive jurisdiction over any dispute.
+
+Signed for Northwind Analytics Ltd.: Ama Owusu, Managing Director
+Signed for Bluepeak Software Inc.: Daniel Reyes, Chief Executive Officer
